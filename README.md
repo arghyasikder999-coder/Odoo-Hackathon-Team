@@ -1,1 +1,1 @@
-# Odoo.hckathon
+# Odoo-Hackathon-Team
